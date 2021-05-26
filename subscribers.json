@@ -1,0 +1,21 @@
+{
+	"subscribers": [
+		{
+			"name": "Foo",
+			"email": "foo@example.com",
+			"vaccine": "COVAXIN",
+			"dose": 1,
+			"age_group": 18,
+			"district": 571
+		},
+
+		{
+			"name": "Bar",
+			"email": "bar@example.com",
+			"vaccine": "COVISHIELD",
+			"dose": 1,
+			"age_group": 45,
+			"district": 571
+		}
+	]
+}
