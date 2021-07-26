@@ -1,7 +1,7 @@
 # Covid Vaccine Tracker
 A simple set of scripts to periodically check for Covid-19 vaccine availability and automatically email people a list of vaccination centers, timings, available capacity, and price.
 
-This works based on the CoWIN Public API provided by API Setu (https://apisetu.gov.in/public/api/cowin). This only works for locations in India. I am not sure whether/how other countries make this data available publicly through an API. But I am sure it should be pretty easy to make this work for other locations with a little know-how. 
+This works based on the CoWIN Public API provided by [API Setu](https://apisetu.gov.in/public/api/cowin). This only works for locations in India. I am not sure whether/how other countries make this data available publicly through an API. But I am sure it should be pretty easy to make this work for other locations with a little know-how. 
 
 ## Components
 The program is made of three simple components:
